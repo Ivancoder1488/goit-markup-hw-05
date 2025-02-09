@@ -709,6 +709,10 @@ margin-bottom: 16px;
   display: block;
   margin-bottom: 16px;
   text-align: center;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+  
 }
 
 .modal-form-label {
