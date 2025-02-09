@@ -749,7 +749,10 @@ margin-bottom: 16px;
 .modal-form-field:focus-visible {
   outline-color: #404bbf;
 }
-
+.con-icon-label{
+  position: relative;
+  
+}
 .modal-form-group {
   position: relative;
   margin-bottom: 8px;
