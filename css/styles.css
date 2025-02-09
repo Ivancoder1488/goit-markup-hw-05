@@ -760,6 +760,10 @@ margin-bottom: 16px;
   position: relative;
   margin-bottom: 8px;
 }
+.modal-form-group-comment{
+  margin-bottom: 16px;
+  
+}
 /* Початковий стиль для SVG іконок */
 .modal-icon {
   fill: #2e2f42;
