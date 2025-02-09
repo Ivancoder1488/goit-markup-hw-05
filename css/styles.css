@@ -882,7 +882,10 @@ margin-bottom: 16px;
 }
 
 
-
+.checkbox-con{
+  margin-bottom: 24px;
+  
+}
 /* Плавна зміна кольору для вибраного чекбоксу */
 .modal-form-checkbox:checked+.custom-checkbox>.custom-checkbox-check {
   opacity: 1;
