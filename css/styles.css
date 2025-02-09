@@ -497,7 +497,7 @@ margin-bottom: 16px;
   letter-spacing: 0.04em;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   color: #ffffff;
-  
+
 }
 
 .btn-form {
@@ -506,7 +506,7 @@ margin-bottom: 16px;
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 24px;
-
+  min-width: 165px;
 
   display: flex;
   align-items: center;
@@ -514,7 +514,7 @@ margin-bottom: 16px;
   margin-left: 24px;
   cursor: pointer;
   border: 0;
-  font-family: Roboto;
+  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
