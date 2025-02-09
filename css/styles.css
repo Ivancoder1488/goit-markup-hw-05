@@ -712,7 +712,7 @@ margin-bottom: 16px;
   font-weight: 500;
   letter-spacing: 0.02em;
   color: #2E2F42;
-  
+
 }
 
 .modal-form-label {
@@ -748,6 +748,7 @@ margin-bottom: 16px;
 
 .modal-form-group {
   position: relative;
+  margin-bottom: 8px;
 }
 /* Початковий стиль для SVG іконок */
 .modal-icon {
