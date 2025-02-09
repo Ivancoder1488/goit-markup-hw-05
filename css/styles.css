@@ -557,6 +557,9 @@ margin-bottom: 16px;
 .footer-container {
   display: flex;
 }
+.con-form-footer{
+  display: flex;
+}
 
 .con-list-social {
   justify-content: center;
