@@ -706,8 +706,7 @@ margin-bottom: 16px;
   display: flex;
 }
 
-.modal-form-btn:hover,
-.modal-form-btn:focus {
+.modal-form-btn:hover{
   background-color: #404bbf;
   border: none;
 }
