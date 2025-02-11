@@ -901,11 +901,10 @@ margin-bottom: 16px;
   justify-content: center;
   fill: transparent;
 }
-.visually-hidden:checked + span{
+input:checked+label .custom-checkbox {
   background-color:#404bbf;
   border: none;
   fill:#F4F4FD;
-
 }
 .privacy-link{
   color:#4d5ae5;
